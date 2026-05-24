@@ -1,0 +1,7 @@
+001,Laptops,44,C:\Users\HP\OneDrive\Desktop\images.jpeg,12000
+002,Fan,47,C:\Users\HP\OneDrive\Desktop\fan.jpeg,25000
+003,Fridge,47,C:\Users\HP\OneDrive\Desktop\Friedge.jpg,12000
+004,Battery,22,C:\Users\HP\OneDrive\Desktop\battery.jpeg,1200
+005,Ipad,47,C:\Users\HP\OneDrive\Desktop\ipad.jpeg,50000
+006,TV,47,C:\Users\HP\OneDrive\Desktop\tv.jpeg,250000
+006,Phone,25,C:\Users\HP\OneDrive\Desktop\phone.jpeg,50000
